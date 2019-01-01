@@ -1,6 +1,5 @@
 #       python D:Pythonpractice\KMP.py
 
-#1.工签， 枫叶卡， 毕业课程， 研究生， 找工作
 
 
 #match = ["A", "B", "A", "B", "C"]
